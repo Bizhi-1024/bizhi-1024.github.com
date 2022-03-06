@@ -2,23 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bizhi-1024.github.io/2021/06/12/hello/</loc>
+    <loc>https://bizhi-1024.github.io/2022/03/06/ElasticSearch%E7%AC%AC%E4%B8%80%E5%A4%A9/</loc>
     
-    <lastmod>2021-06-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://bizhi-1024.github.io/2021/06/12/hello-hexo/</loc>
-    
-    <lastmod>2021-06-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://bizhi-1024.github.io/2021/06/12/world/</loc>
-    
-    <lastmod>2021-06-12</lastmod>
+    <lastmod>2022-03-06</lastmod>
     
   </url>
   
@@ -74,7 +60,7 @@
 
   <url>
     <loc>https://bizhi-1024.github.io/</loc>
-    <lastmod>2021-06-12</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -82,28 +68,14 @@
   
   <url>
     <loc>https://bizhi-1024.github.io/tags/spring-cloud/</loc>
-    <lastmod>2021-06-12</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://bizhi-1024.github.io/tags/js/</loc>
-    <lastmod>2021-06-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bizhi-1024.github.io/tags/css/</loc>
-    <lastmod>2021-06-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bizhi-1024.github.io/tags/html/</loc>
-    <lastmod>2021-06-12</lastmod>
+    <loc>https://bizhi-1024.github.io/tags/ElasticSearc/</loc>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -112,28 +84,14 @@
   
   <url>
     <loc>https://bizhi-1024.github.io/categories/spring-cloud/</loc>
-    <lastmod>2021-06-12</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://bizhi-1024.github.io/categories/js/</loc>
-    <lastmod>2021-06-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bizhi-1024.github.io/categories/css/</loc>
-    <lastmod>2021-06-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bizhi-1024.github.io/categories/html/</loc>
-    <lastmod>2021-06-12</lastmod>
+    <loc>https://bizhi-1024.github.io/categories/ElasticSearc/</loc>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
